@@ -1,3 +1,4 @@
+#1ere tentative
 #a=70
 #b=29
 #c=1000
@@ -8,8 +9,20 @@
 	#for j in range (c):
 		#print (b,j)
 
-a=1930000
-b=2019000
+#2e tentative
+#a=1930000
+#b=2019000
 
-for i in range (a,b):
+#for i in range (a,b):
 	 print (i)
+	
+	
+#3e tentative
+#a=1930000
+#b=2019000
+#l1=[]
+
+#for i in range (a,b):
+	 #(str (i))
+	 #l1=i
+	 #print (l1[2:6])
