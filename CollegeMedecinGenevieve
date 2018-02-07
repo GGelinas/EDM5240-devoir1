@@ -1,9 +1,15 @@
-a=70
-b=29
-c=1000
+#a=70
+#b=29
+#c=1000
 
-for i in range (a):
-	b=b+1
+#for i in range (a):
+	#b=b+1
 	
-	for j in range (c):
-		print (b,j)
+	#for j in range (c):
+		#print (b,j)
+
+a=1930000
+b=2019000
+
+for i in range (a,b):
+	 print (i)
