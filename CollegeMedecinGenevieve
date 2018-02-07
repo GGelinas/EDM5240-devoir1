@@ -1,0 +1,9 @@
+a=70
+b=29
+c=1000
+
+for i in range (a):
+	b=b+1
+	
+	for j in range (c):
+		print (b,j)
